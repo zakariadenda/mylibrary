@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mylibrary</string>
+    <string name="store">STORE</string>
+    <string name="get_all_names_from_sqlite">GET ALL NAMES FROM SQLITE</string>
+</resources>
